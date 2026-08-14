@@ -30,7 +30,8 @@ consultants can all map to, instead of every CRM inventing its own schema.
 ## License
 
 ACDM is licensed under the
-**[Business Source License 1.1 (BSL)](https://mariadb.com/bsl11/)**.
+**[Business Source License 1.1 (BSL)](https://mariadb.com/bsl11/)** — see
+[LICENSE](LICENSE) for the full text and parameters.
 
 Under the BSL's built-in conversion, **version 1 of ACDM will be open-sourced
 under the
@@ -46,4 +47,3 @@ guaranteed by the license itself — it is not a promise that can be withdrawn.
 ---
 
 © Rigason LLC · Advancement Common Data Model · Business Source License 1.1
-

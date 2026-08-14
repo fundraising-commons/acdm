@@ -1,8 +1,8 @@
-# Advancement Common Data Model (ACDM)
+# Advancement Common Data Model™ (ACDM™)
 
 **An open, vendor-neutral data model for higher-education advancement.**
 
-ACDM models the full advancement domain — constituents, gifts, designations,
+ACDM™ models the full advancement domain — constituents, gifts, designations,
 planned giving, engagement (events, volunteers, memberships), stewardship and
 scholarships, donor recognition, campaigns, marketing and communications, and
 fundraising metrics — once, in the open, so your data stays yours and can move
@@ -39,6 +39,13 @@ under the
 four years after its release**. The open-source future of the model is
 guaranteed by the license itself — it is not a promise that can be withdrawn.
 
+## Trademarks
+
+"Advancement Common Data Model" and "ACDM" are trademarks of Rigason LLC.
+The license grants copyright permissions only — it does not grant any right
+to use the names. See [TRADEMARK.md](TRADEMARK.md) for the usage policy,
+including what you may do without asking.
+
 ## Learn more
 
 - **Website:** [fundcommons.org](https://fundcommons.org)
@@ -46,4 +53,5 @@ guaranteed by the license itself — it is not a promise that can be withdrawn.
 
 ---
 
-© Rigason LLC · Advancement Common Data Model · Business Source License 1.1
+© Rigason LLC · Advancement Common Data Model™ · Business Source License 1.1
+"Advancement Common Data Model" and "ACDM" are trademarks of Rigason LLC.
